@@ -12,6 +12,7 @@ FULL STACK DEVELOPER | JAVA DEVELOPER
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PhantomCodeGhost&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=PhantomCodeGhost&theme=dark&hide_border=false)<br/>
+<br/>
 <img src="https://raw.githubusercontent.com/PhantomCodeGhost/PhantomCodeGhost/refs/heads/main/github-user-contribution.svg" /><br/><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PhantomCodeGhost&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
